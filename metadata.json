@@ -1,0 +1,8 @@
+
+{
+  "name": "QuickCollect - Item Manager",
+  "description": "A mini-program style web app for quickly collecting product information and exporting it to Excel with AI-powered copywriting optimization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
